@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marshatiisa
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on any interesting projects
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me marshatiisa35@gmail.com
 
 <!---
