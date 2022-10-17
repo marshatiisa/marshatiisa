@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marshatiisa
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me marshatiisa35@gmail.com
 
