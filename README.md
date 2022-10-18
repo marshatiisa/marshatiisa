@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/100469351/196305152-aba374e2-4f38-4935-a7e2-79be5a0d074e.jpg" width="700" height="300" />
+
 - 👋 Hi, I’m @marshatiisa
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning Node.js
