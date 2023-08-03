@@ -1,4 +1,6 @@
-## I'm a Software Engineer. Check out my main projects below:
+### Hey! I'm Marsha, Software Engineer.
+
+#### Check out my main projects below:
 <!-- - 👋 Hi, I’m @marshatiisa -->
 
 Tech Stack: JavaScript, Python, React, Node, Express, MongoDB, HTML, CSS
