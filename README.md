@@ -1,4 +1,4 @@
-### Hey! I'm Marsha, Software Engineer.
+### Hey! I'm Marsha, a Software Engineer.
 
 #### Check out my main projects below:
 <!-- - 👋 Hi, I’m @marshatiisa -->
