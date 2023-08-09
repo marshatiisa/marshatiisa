@@ -3,7 +3,7 @@
 #### Check out my main projects below:
 <!-- - 👋 Hi, I’m @marshatiisa -->
 
-Tech Stack: JavaScript, Python, React, Node, Express, MongoDB, HTML, CSS
+Tech Stack: JavaScript, React, Node, Express, NextJS, MongoDB, HTML, CSS and Python
 <!-- <img src="https://user-images.githubusercontent.com/100469351/196290803-ab1c3ac5-1ae4-44d6-b50b-360ec77f6d3e.svg" width="50" height="50" />
 <img src="https://user-images.githubusercontent.com/100469351/222830742-b70ebc7c-d6aa-4f2d-b36b-d8f2a6535bd2.svg" width="50" height="50" />
 <img src="https://user-images.githubusercontent.com/100469351/196290806-8cfa03a0-cbd2-41c4-bd46-dc0212544dd4.svg" width="50" height="50" />
